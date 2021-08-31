@@ -208,6 +208,9 @@
 .sidebar .profile-details .job {
   font-size: 12px;
 }
+.navbar-form{
+  margin-left: 100px;
+}
 .home-section {
   position: relative;
   background: #fff;
